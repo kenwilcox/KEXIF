@@ -1,0 +1,5 @@
+This is a handy wrapper around Phil Harvey's wonderful Perl script "exiftool". This inculdes the Windows binary as well as a smallish windows application that makes using exiftool even easier.
+
+This GUI was written by Ken Wilcox
+
+By clicking on Agree you take responsibility of what ever happens.
